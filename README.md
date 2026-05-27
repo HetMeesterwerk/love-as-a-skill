@@ -4,7 +4,9 @@
 
 Love is often treated as chemistry, instinct, or destiny. This skill treats love as a trainable practice: noticing patterns, regulating emotions, communicating clearly, repairing conflict, respecting boundaries, and choosing better responses.
 
+
 This repository contains a `SKILL.md` file that can be used with Claude, Codex, and other agent workflows that support portable skill-style instruction files.
+
 
 ## What this skill helps with
 
