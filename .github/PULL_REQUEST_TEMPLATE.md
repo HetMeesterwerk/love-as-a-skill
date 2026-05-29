@@ -20,14 +20,12 @@ Adds a new example for asking for reassurance without accusation.
 
 ## Checklist
 
-```text
-[ ] This contribution supports love as a trainable practice.
-[ ] This contribution avoids therapy, diagnosis, legal, or crisis-support claims.
-[ ] This contribution does not encourage surveillance, manipulation, coercion, or control.
-[ ] This contribution avoids copyrighted transcript material.
-[ ] This contribution is written in clear Markdown.
-[ ] This contribution improves practical usefulness for AI-agent workflows.
-```
+- [ ] This contribution supports love as a trainable practice.
+- [ ] This contribution avoids therapy, diagnosis, legal, or crisis-support claims.
+- [ ] This contribution does not encourage surveillance, manipulation, coercion, or control.
+- [ ] This contribution avoids copyrighted transcript material.
+- [ ] This contribution is written in clear Markdown.
+- [ ] This contribution improves practical usefulness for AI-agent workflows.
 
 ## Safety review
 
