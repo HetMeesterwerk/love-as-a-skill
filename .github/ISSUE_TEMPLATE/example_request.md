@@ -1,12 +1,9 @@
 ---
-noteId: "92fe2bb059f011f1b0f967a67bf802bb"
-tags: []
-name: "Example request"
-about: "Suggest a new relationship-reflection example for the skill"
+name: Example request
+about: Suggest a new relationship-reflection example for the skill
 title: "Example: "
-labels: "examples"
+labels: examples
 assignees: ""
-
 ---
 
 ## Scenario
