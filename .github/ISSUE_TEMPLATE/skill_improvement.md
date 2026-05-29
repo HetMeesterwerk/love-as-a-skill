@@ -1,12 +1,9 @@
 ---
-noteId: "8f18b42059f011f1b0f967a67bf802bb"
-tags: []
-name: "Skill improvement"
-about: "Suggest an improvement to the core SKILL.md behavior"
+name: Skill improvement
+about: Suggest an improvement to the core SKILL.md behavior
 title: "Skill improvement: "
-labels: "enhancement"
+labels: enhancement
 assignees: ""
-
 ---
 
 ## Problem
