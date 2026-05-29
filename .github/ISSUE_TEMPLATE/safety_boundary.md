@@ -1,12 +1,9 @@
 ---
-noteId: "8b1c322059f011f1b0f967a67bf802bb"
-tags: []
-name: "Safety boundary improvement"
-about: "Suggest a clearer safety boundary for the skill"
+name: Safety boundary improvement
+about: Suggest a clearer safety boundary for the skill
 title: "Safety: "
-labels: "safety"
+labels: safety
 assignees: ""
-
 ---
 
 ## Current concern
